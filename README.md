@@ -55,8 +55,7 @@ The dataset contains information about houses and their prices. The features inc
     - R-squared (R²)
 - Complete the assignment using the `notebook` in the repository.
     - Push your solution back to Github once completed.
-- Submit your notebook on **[Gradescope](https://www.gradescope.com/courses/544001/assignments)**
-    - Look for **Week 7 - House Price Prediction** under assignments
+
 
 ### HINTS
 - Utilize pandas library for data manipulation and preprocessing.
